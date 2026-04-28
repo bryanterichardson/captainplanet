@@ -1,6 +1,6 @@
 import pytest
 
-from environment_variable.boolean import _FALSY, _TRUTHY, str_to_bool
+from captainplanet.boolean import _FALSY, _TRUTHY, str_to_bool
 
 
 @pytest.mark.parametrize(
