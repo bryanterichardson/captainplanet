@@ -2,7 +2,7 @@ import os
 
 import pytest
 
-from environment_variable import EnvironmentVariable, SecretValueError
+from captainplanet import EnvironmentVariable, SecretValueError
 
 TEST_VAR_NAME = "_TEST_VAR"
 

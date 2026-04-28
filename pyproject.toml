@@ -3,7 +3,7 @@ requires = ["setuptools>=80", "setuptools-scm[simple]>=9"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "environment-variable"
+name = "captainplanet"
 description = "Open-source package for loading environment variables easier and in a Pythonic way"
 dynamic = [
     "version",
